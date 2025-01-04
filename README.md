@@ -15,7 +15,8 @@ Deflate is a lossless compression algorithm that combines the **LZ77 algorithm**
 
 ## 📖 Blog Post  
 For an in-depth explanation of Deflate compression, its advantages, and how to use it effectively in Spring Boot, check out the accompanying blog post on Medium:  
-[**Exploring Compression Techniques in Spring Boot**](#)  
+[**Exploring Compression Techniques in Spring Boot**](https://medium.com/@narasimha4789/supercharge-your-web-apps-speed-compression-techniques-in-spring-boot-083a08da0c6c)  
+[**Exploring Deflate Compression Technique in Spring Boot**](https://medium.com/@narasimha4789/implementing-deflate-compression-in-spring-boot-446df8b92761)
 
 ## 🚀 Getting Started  
 ### Prerequisites  

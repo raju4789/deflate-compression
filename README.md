@@ -51,4 +51,3 @@ This project is licensed under the MIT License.
 
 ## 🔗 Stay Connected  
 Follow me on [Medium](https://medium.com/@narasimha4789) for more technical content!  
-```
